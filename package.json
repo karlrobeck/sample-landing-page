@@ -2,7 +2,7 @@
   "name": "sample-landing-page",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://karlrobeck.github.io/sample-landing-page/",
+  "homepage": "https://karlrobeck.github.io/sample-landing-page",
   "type": "module",
   "scripts": {
     "dev": "vite",
